@@ -1,4 +1,4 @@
-# python-api-challenge
+# python_api_challenge
 
 First, using weather API data, this project compares random city locations with their respective maximum temperature, humidity, cloudiness, and wind speed. It then finds the linear regression of latitude vs each category for both hemispheres. 
 
